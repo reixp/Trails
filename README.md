@@ -1,5 +1,5 @@
 # Trails
-Var1 = White
-Var2 = Black
-Var3 = Orange
-Var4 = Yellow
+Var0 = White
+Var1 = Black
+Var2 = Orange
+Var3 = Yellow
